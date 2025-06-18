@@ -1,13 +1,13 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//La Haus//Ushuaya Torre 2 Launch//EN
+PRODID:-//La Haus//Ushuaya Torre 2//EN
 BEGIN:VEVENT
 UID:294b37bc-69f2-4744-9ca1-c9fdac9564f5
 DTSTAMP:20250613T214509Z
 DTSTART:20250620T003000Z
 DTEND:20250620T013000Z
-SUMMARY:Lanzamiento en vivo: Descubre Ushuaya Torre 2
-DESCRIPTION:Acompáñanos en el lanzamiento en vivo de Ushuaya Torre 2, un proyecto que redefine el estilo de vida en Envigado. Descubre aparta-suites desde 31.6 m² con acabados, parqueadero y cuarto útil incluidos. Ubicación privilegiada, rooftop con vista panorámica, gimnasio, zona húmeda y mucho más. Conéctate aquí: https://lanzamientos.lahaus.com/ushuaya-t2/
+SUMMARY:Oportunidad de inversión: Descubre Ushuaya Torre 2
+DESCRIPTION:Acompáñanos en la transmisión en vivo de Ushuaya Torre 2, un proyecto que redefine el estilo de vida en Envigado. Descubre aparta-suites desde 31.6 m² con acabados, parqueadero y cuarto útil incluidos. Ubicación privilegiada, rooftop con vista panorámica, gimnasio, zona húmeda y mucho más. Conéctate aquí: https://lanzamientos.lahaus.com/ushuaya-t2/
 LOCATION:https://lanzamientos.lahaus.com/ushuaya-t2/
 END:VEVENT
 END:VCALENDAR
